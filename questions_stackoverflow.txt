@@ -1,0 +1,120 @@
+Passing a Local to a Python program from Stata
+['python', 'stata', 'stata-macros']
+https://stackoverflow.com/questions/76815847/passing-a-local-to-a-python-program-from-stata
+
+How do I make a list of times 2 with existing list?
+['python', 'list']
+https://stackoverflow.com/questions/76815831/how-do-i-make-a-list-of-times-2-with-existing-list
+
+How can I test async code in with two asyn with sentences?
+['python', 'python-3.x', 'testing']
+https://stackoverflow.com/questions/76815824/how-can-i-test-async-code-in-with-two-asyn-with-sentences
+
+Pandas replace values in datetime column without changing the datetime64 data type
+['python', 'pandas', 'dataframe', 'numpy']
+https://stackoverflow.com/questions/76815770/pandas-replace-values-in-datetime-column-without-changing-the-datetime64-data-ty
+
+How to calculate time difference between two time strings (with flexible parameters)
+['python', 'datetime']
+https://stackoverflow.com/questions/76815748/how-to-calculate-time-difference-between-two-time-strings-with-flexible-paramet
+
+Scrape using BeautifulSoup find_previous_sibling not working as intended
+['python', 'html', 'web-scraping', 'beautifulsoup']
+https://stackoverflow.com/questions/76815736/scrape-using-beautifulsoup-find-previous-sibling-not-working-as-intended
+
+Is it possible to create o3d.geometry.VoxelGrid directly from numpy binary array?
+['python', 'numpy', 'open3d']
+https://stackoverflow.com/questions/76815735/is-it-possible-to-create-o3d-geometry-voxelgrid-directly-from-numpy-binary-array
+
+can someone go step by step for Caesar cipher in python by using input and dictionary if shift value is 5?
+['python', 'dictionary', 'input', 'caesar-cipher']
+https://stackoverflow.com/questions/76815734/can-someone-go-step-by-step-for-caesar-cipher-in-python-by-using-input-and-dicti
+
+No Movement in ship
+['python', 'class', 'methods', 'python-import']
+https://stackoverflow.com/questions/76815689/no-movement-in-ship
+
+How do I get rid of the extra comma?
+['python', 'google-colaboratory', 'data-cleaning', 'python-re']
+https://stackoverflow.com/questions/76815685/how-do-i-get-rid-of-the-extra-comma
+
+Why I can create the log file on Python using logging
+['python', 'logging', 'pytest']
+https://stackoverflow.com/questions/76815683/why-i-can-create-the-log-file-on-python-using-logging
+
+How to consider multiple conditions before replace?
+['python', 'regex', 'replace']
+https://stackoverflow.com/questions/76815659/how-to-consider-multiple-conditions-before-replace
+
+Calculating rolling Root Mean Square Error in python
+['python', 'pandas', 'apply', 'rolling-computation']
+https://stackoverflow.com/questions/76815650/calculating-rolling-root-mean-square-error-in-python
+
+How to get data from the kaggle datasets site by entering the command on the Google Colab?
+['python', 'pandas', 'github', 'google-colaboratory', 'kaggle']
+https://stackoverflow.com/questions/76815648/how-to-get-data-from-the-kaggle-datasets-site-by-entering-the-command-on-the-goo
+
+Cannot import &quot;itemgetter&quot; from &quot;operator&quot;
+['python', 'turtle-graphics']
+https://stackoverflow.com/questions/76815556/cannot-import-itemgetter-from-operator
+
+How to draw a vertical line across the whole plot?
+['python', 'matplotlib']
+https://stackoverflow.com/questions/76815536/how-to-draw-a-vertical-line-across-the-whole-plot
+
+Twilio Phone call send Media Event
+['python', 'twilio', 'twilio-api']
+https://stackoverflow.com/questions/76815479/twilio-phone-call-send-media-event
+
+Can I universally quantify a type in Python?
+['python', 'python-typing', 'pyre-check']
+https://stackoverflow.com/questions/76815458/can-i-universally-quantify-a-type-in-python
+
+Filter pandas multi index data frame based on index column values
+['python', 'pandas', 'dataframe', 'multi-index']
+https://stackoverflow.com/questions/76815413/filter-pandas-multi-index-data-frame-based-on-index-column-values
+
+Merging Palindrome Solution
+['python', 'python-3.x', 'palindrome']
+https://stackoverflow.com/questions/76815384/merging-palindrome-solution
+
+How to correctly format a jsonp file coming from a website to extract a well formatted text? (with python)
+['python', 'html', 'jsonp']
+https://stackoverflow.com/questions/76815366/how-to-correctly-format-a-jsonp-file-coming-from-a-website-to-extract-a-well-for
+
+How can I extract mathematical equation from ANN in python?
+['python', 'machine-learning', 'artificial-intelligence', 'mathematical-optimization']
+https://stackoverflow.com/questions/76815357/how-can-i-extract-mathematical-equation-from-ann-in-python
+
+Export SQL table with column of semicolon separated values into Excel file with data validation list
+['python', 'excel']
+https://stackoverflow.com/questions/76815356/export-sql-table-with-column-of-semicolon-separated-values-into-excel-file-with
+
+mpmath stopped working with the high precisions
+['python', 'debugging', 'mpmath']
+https://stackoverflow.com/questions/76815348/mpmath-stopped-working-with-the-high-precisions
+
+PyTorch Profiler: CUPTI initialization failed
+['python', 'pytorch', 'cuda']
+https://stackoverflow.com/questions/76815335/pytorch-profiler-cupti-initialization-failed
+
+Calling polars apply results in a warning message
+['python', 'python-polars']
+https://stackoverflow.com/questions/76815316/calling-polars-apply-results-in-a-warning-message
+
+Compressing to zip file in python
+['python', 'zip', 'azure-blob-storage', 'unzip']
+https://stackoverflow.com/questions/76815262/compressing-to-zip-file-in-python
+
+When I export ipynb jupyter notebook file to pdf, using nbconvert, table doesn&#39;t fit the page
+['python', 'pdf', 'jupyter-notebook', 'pdf-generation', 'nbconvert']
+https://stackoverflow.com/questions/76815238/when-i-export-ipynb-jupyter-notebook-file-to-pdf-using-nbconvert-table-doesnt
+
+Python Excel Pandas DataFrame Import - Handling nested (and merged) headers
+['python', 'pandas', 'dataframe', 'header', 'excel-import']
+https://stackoverflow.com/questions/76815233/python-excel-pandas-dataframe-import-handling-nested-and-merged-headers
+
+Difference between pandas &lt;NA&gt; and NaN for numeric columns
+['python', 'pandas', 'numpy', 'null', 'na']
+https://stackoverflow.com/questions/76815232/difference-between-pandas-na-and-nan-for-numeric-columns
+
